@@ -1,6 +1,6 @@
 {
   "name": "module46-rest-countries",
-  "homepage": "https://rahad-khan.github.io/react-countriescle",
+  "homepage": "https://rahad-khan.github.io/react-countriesnpm install --save gh-pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
